@@ -1,4 +1,4 @@
-claude-agent-sdk
+google-genai
 SQLAlchemy
 psycopg[binary]
 python-dotenv
